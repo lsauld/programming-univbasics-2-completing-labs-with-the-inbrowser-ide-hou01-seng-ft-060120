@@ -1,6 +1,4 @@
-#
+
 
 
 puts "Hello World!"
-
-#
