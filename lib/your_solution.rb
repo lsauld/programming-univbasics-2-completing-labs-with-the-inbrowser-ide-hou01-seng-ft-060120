@@ -1,6 +1,2 @@
-#
-
 
 puts "Hello World!"
-end
-#
